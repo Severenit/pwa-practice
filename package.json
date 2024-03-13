@@ -1,0 +1,12 @@
+{
+  "name": "pwa-practice",
+  "version": "1.0.0",
+  "description": "Этот проект создан для того, чтобы предоставить практику над прогрессивными веб-приложениями (PWA).",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server . --port=3000"
+  },
+  "keywords": ["pwa", "progressive web application"],
+  "author": "Zar Zakharov",
+  "license": "ISC"
+}
